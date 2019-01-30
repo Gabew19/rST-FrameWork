@@ -1,0 +1,9 @@
+client_scripts
+"server.lua"
+"client.lua"
+"base.lua"
+"money.lua"
+"phone.lua"
+"police.lua"
+"admin.lua"
+"version.lua"
